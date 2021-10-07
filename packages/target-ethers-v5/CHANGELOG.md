@@ -1,5 +1,11 @@
 # @typechain/ethers-v5
 
+## 7.2.0
+
+### Minor Changes
+
+- ed871ca: Fix contract interface functions name for tuples
+
 ## 7.1.2
 
 ### Patch Changes
